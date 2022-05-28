@@ -10,7 +10,7 @@ p {
 
 .container {
     font-family: 'Outfit', sans-serif;
-    margin: 5% auto;
+    margin: 15% auto;
 }
 
 .card {
@@ -70,11 +70,12 @@ p {
     display: inline-block;
     color: white;
     font-weight: 600;
+    margin-top: 10px;
 }
 
 .card-text{
     font-weight: 300;
-    margin: 10px 0;
+    margin: 9px 0 25px;
 }
 
 .card-body hr {
