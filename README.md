@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/2yool/nft-preview-card)
+- Live Site URL: (https://2yool.github.io/nft-preview-card/)
 
 ## My process
 
@@ -39,12 +39,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+-Bootstrap
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
